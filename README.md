@@ -1,4 +1,4 @@
-# Modular Pindad SS2 
+# Modular Pindad SS2-V5A1 
 ![alttext](https://steamuserimages-a.akamaihd.net/ugc/1484453085525079608/3CDD6B835D7A1FE85EC43FC29151BE456A6B377B/)
 ## 17 August 2020 Special
 **75th Independence Day of Indonesia**
