@@ -1,0 +1,11 @@
+dir = "@PSS2M";
+picture = "logo_PSS2M_ca.paa";
+name = "Pindad SS2-V5A1 Merdeka Edition";
+description = "PSS2M - Version 0.1 DEV Build";
+logo = "logo_PSS2M_ca.paa";
+logoOver = "logo_PSS2M_ca.paa";
+tooltip = "PSS2M";
+tooltipOwned = "Originally created by nzdfcrash (BWI), modified by fynugroho (Rex)."
+overview = "Pindad SS2 Merdeka Edition is a modification of nzdfcrash (BWI) Pindad SS2 Series. This mod currently modified the SS2-V5A1 which is now made compatible with all rail optics including from other mods and the weapon is available as an item in Editor.";
+author = "nzdfcrash (BWI), fynugroho (Rex)";
+overviewPicture = "logo_PSS2M_ca.paa";
